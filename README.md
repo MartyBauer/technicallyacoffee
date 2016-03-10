@@ -13,4 +13,4 @@ Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [
 
 Thanks for checking this out.
 
-Marty
+Marty Bauer
